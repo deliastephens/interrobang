@@ -4,6 +4,6 @@
     android:layout_width="1000dp"
     android:layout_height="wrap_content"
     android:layout_alignParentBottom="true"
-    android:background="@android:color/white"
+    android:background="@android:color/background_light"
     android:keyBackground="@android:drawable/btn_default"
     android:keyPreviewLayout="@layout/key_preview"></android.inputmethodservice.KeyboardView>
